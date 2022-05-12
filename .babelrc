@@ -1,0 +1,4 @@
+// ?Este archivo se crea por si react tiene errores
+{
+  "presets": ["next/babel"]
+}
